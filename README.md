@@ -1,7 +1,7 @@
 # Automated test management system
 
 ## Overview
-This project implements a comprehensive automated test management system designed for web, mobile, and API testing. It provides a robust framework for configuring and running automated tests across different platforms and interfaces.
+In this project, I developed a comprehensive automated test management system, supporting 🌐 web UI, 📱 mobile app, and 🔗 API testing. The system utilizes Selenium WebDriver for browser automation 🖥️, Appium for mobile app testing 📲, and RestAssured for API testing 🌐. It supports 🖱️ cross-browser and 📱 cross-device testing, and includes advanced features such as 🔍 detailed logging with Log4j, 📊 test reporting with TestNG, 🎥 video recording of test executions via Monte Screen Recorder, and 📝 PDF content validation using Apache PDFBox. The system was designed with a focus on 🔧 flexible test configuration, ⚡ parallel test execution, and full integration into 🚀 CI/CD pipelines.
 
 ## Features
 - Web UI testing using Selenium WebDriver
