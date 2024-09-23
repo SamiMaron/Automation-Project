@@ -4,14 +4,14 @@
 This project implements a comprehensive automated test management system designed for web, mobile, and API testing. It provides a robust framework for configuring and running automated tests across different platforms and interfaces.
 
 ## Features
-Web UI testing using Selenium WebDriver
-Mobile app testing with Appium
-API testing using RestAssured
-Support for multiple browsers and devices
-Comprehensive logging and reporting
-Screen recording of test executions
-PDF content verification
-Flexible test configuration
+- Web UI testing using Selenium WebDriver
+- Mobile app testing with Appium
+- API testing using RestAssured
+- Support for multiple browsers and devices
+- Comprehensive logging and reporting
+- Screen recording of test executions
+- PDF content verification
+- Flexible test configuration
 
 ## Tools Used
 - **Selenium WebDriver**: Used for browser automation and testing.
