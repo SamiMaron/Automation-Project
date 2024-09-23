@@ -1,4 +1,4 @@
-# Selenium Automation Project
+# Automated test management system
 
 ## Overview
 This project aims to automate web testing using Selenium WebDriver. It includes configurations for browser selection, logging, and project workspace settings.
